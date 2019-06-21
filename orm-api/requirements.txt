@@ -1,0 +1,6 @@
+zappa
+flask
+flask_restful
+sqlalchemy
+sqlalchemy-utils
+pymysql
